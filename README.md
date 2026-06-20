@@ -43,7 +43,3 @@ This dashboard provides a complete sales performance overview for **Bakers & Mak
 - **Bar chart** – Conversions by time of day
 - **Horizontal bar chart** – Top 10 products
 - **Cards** – KPI summaries at the top
-
----
-
-> 📁 *This dashboard is part of a data analyst portfolio project, demonstrating how Excel can be used to turn bakery sales data into clear, actionable business insights.*
